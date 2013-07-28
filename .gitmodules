@@ -1,0 +1,9 @@
+[submodule "media/framework/bootstrap"]
+	path = media/framework/bootstrap
+	url = https://github.com/jdcorrales/bootstrap.git
+[submodule "media/framework/jquery-ui"]
+	path = media/framework/jquery-ui
+	url = https://github.com/jdcorrales/jquery-ui.git
+[submodule "media/framework/jquery-treeview"]
+	path = media/framework/jquery-treeview
+	url = https://github.com/jdcorrales/jquery-treeview.git

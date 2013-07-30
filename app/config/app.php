@@ -26,7 +26,7 @@ return array(
 	|
 	*/
 
-	'url' => 'http://localhost',
+	'url' => 'http://localhost/pruebas/desarrollo-git/',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -65,7 +65,7 @@ return array(
 	|
 	*/
 
-	'key' => 'YourSecretKey!!!',
+	'key' => 'ekrpkewprkdñke45i094i65',
 
 	/*
 	|--------------------------------------------------------------------------

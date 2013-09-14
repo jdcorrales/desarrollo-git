@@ -7,3 +7,18 @@
 [submodule "media/framework/jquery-treeview"]
 	path = media/framework/jquery-treeview
 	url = https://github.com/jdcorrales/jquery-treeview.git
+[submodule "public/media/framework/bootstrap-tree"]
+	path = public/media/framework/bootstrap-tree
+	url = https://github.com/jdcorrales/bootstrap-tree.git
+[submodule "public/media/framework/d3"]
+	path = public/media/framework/d3
+	url = https://github.com/jdcorrales/d3.git
+[submodule "public/media/framework/ckeditor-dev"]
+	path = public/media/framework/ckeditor-dev
+	url = https://github.com/jdcorrales/ckeditor-dev.git
+[submodule "public/media/framework/ace"]
+	path = public/media/framework/ace
+	url = https://github.com/jdcorrales/ace.git
+[submodule "public/media/framework/bootstrap-form-builder"]
+	path = public/media/framework/bootstrap-form-builder
+	url = https://github.com/jdcorrales/Bootstrap-Form-Builder.git

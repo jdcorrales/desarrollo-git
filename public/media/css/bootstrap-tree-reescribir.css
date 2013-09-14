@@ -1,0 +1,10 @@
+.tree {
+  box-shadow: none;
+  background-color: none;
+  border: none;
+  margin-bottom: none;
+  max-height: none;
+  min-height: none;
+  overflow-y: visible;
+  padding: 0px;
+}

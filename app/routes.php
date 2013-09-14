@@ -11,12 +11,24 @@
 |
 */
 
-Route::get('/', function()
-{
+/*Route::get('/', function(){
 	return View::make('hello');
+});*/
+
+
+
+/*Route::get('users', function(){
+	return 'Users';
+});*/
+
+Route::get('form', function(){
+	print_r($_REQUEST);
 });
 
-Route::get('users', function()
-{
-	return 'Users';
-});
+//Route::get('/', 'HomeController@getIndex');
+
+
+
+
+Route::get('/', 'CkeditorController@getIndex');
+Route::post('ckeditor/config', 'CkeditorController@configuracion');

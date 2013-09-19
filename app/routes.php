@@ -11,11 +11,13 @@
 |
 */
 
-/*Route::get('/', function(){
-	return View::make('hello');
-});*/
+Route::get('editor', function(){
+	return View::make('editor-file');
+});
 
-
+Route::get('editor2', function(){
+	return View::make('editor-file2');
+});
 
 /*Route::get('users', function(){
 	return 'Users';

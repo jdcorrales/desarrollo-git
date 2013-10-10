@@ -1,0 +1,78 @@
+.tabbable {
+	margin-top: 42px;
+}
+
+body{
+		overflow: scroll;
+	}
+	#editor {
+ 		position: absolute;
+  	top: 63px;
+  	right: 0;
+  	bottom: 0;
+  	left: 0;
+  }
+  #editor-container{
+		top:41px;
+	}
+	.ace_editor {
+	/*position: relative !important;
+	border: 1px solid lightgray;
+	margin: auto;
+	height: 200px;
+	width: 100%;*/
+ }
+.nav > li > a,
+.nav > li > a:hover,
+.nav > li > a:focus {
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #555555;
+	border-left: solid 1px #000;
+	border-right: solid 1px #000;
+	border-top: solid 1px #000;
+}
+.nav-tabs > .active > a,
+.nav-tabs > .active > a:hover,
+.nav-tabs > .active > a:focus {
+	color: #e0e0e0;
+	background-color: #272822;
+	border-left: solid 1px #000;
+	border-right: solid 1px #000;
+	border-top: solid 1px #000;
+}
+.nav > li > a{
+	text-decoration: none;
+	background-color: #555555;
+	border-left: solid 1px #000;
+	border-right: solid 1px #000;
+	border-top: solid 1px #000;
+}
+.nav-tabs,
+.nav-tabs :focus,
+.nav-tabs :hover{
+		border-bottom: none;
+}
+.nav{
+	margin-bottom: 0px;
+}
+.nav-tabs > li > a{
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.icon-remove{
+	margin-left: 5px;
+}
+.nav-tabs > li > a{
+	padding-right: 0px;
+}
+[class^="icon-"],
+[class*=" icon-"]{
+margin-top: 4px;
+}
+.ace_scrollbar{
+	overflow-y: inherit;
+}
+.ace_scrollbar-h{
+	overflow-x: inherit;
+}

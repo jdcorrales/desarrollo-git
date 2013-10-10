@@ -19,6 +19,10 @@ Route::get('editor2', function(){
 	return View::make('editor-file2');
 });
 
+Route::get('editor3', function(){
+	return View::make('hello');
+});
+
 /*Route::get('users', function(){
 	return 'Users';
 });*/

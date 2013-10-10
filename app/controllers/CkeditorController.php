@@ -98,3 +98,4 @@ class CkeditorController extends BaseController{
 	return (json_encode($config));
 	}
 }
+
